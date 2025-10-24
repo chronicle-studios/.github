@@ -14,14 +14,16 @@ Docs:
 - [ ] Integration/e2e (if applicable)
 Evidence (logs/screens):
 
-
 ## Security & Privacy
 ### Did we add any auth changes?
 - Auth
 ### Did we add any new secrets?
 - Secrets changed:
 
+## 🔍 Scope & Size
+- [ ] PR is **right-sized** (ideally under ~300 lines of diff; large changes are split into smaller PRs)
+- [ ] PR has a **single, clear purpose** — not a batch of unrelated fixes
+- [ ] Includes only relevant files (no debug/test leftovers)
 
-## Checklist
-- [ ] UI screenshots (if any)
-      
+## Reviewer Notes
+(Optional) Anything that needs extra context, known limitations, or follow-ups.
