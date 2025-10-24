@@ -2,7 +2,7 @@
 Intent:
 ### Attach the related linear issue here
 Issue/Spec: 
-### Attach any design docs/documentation here
+### Attach any design docs here
 Docs: 
 
 ## How
@@ -15,9 +15,7 @@ Docs:
 Evidence (logs/screens):
 
 ## Security & Privacy
-### Did we add any auth changes?
-- Auth
-### Did we add any new secrets?
+- Auth changes
 - Secrets changed:
 
 ## 🔍 Scope & Size
