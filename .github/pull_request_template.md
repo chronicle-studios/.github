@@ -18,8 +18,8 @@ Evidence (logs/screens):
 ## Security & Privacy
 ### Did we add any auth changes?
 - Auth
-### Any new api keys/secrets created?
-- Secrets changed? [ ] No [ ] Yes (vault)
+### Did we add any new secrets?
+- Secrets changed:
 
 
 ## Checklist
